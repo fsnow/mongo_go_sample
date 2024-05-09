@@ -11,6 +11,7 @@
 Build, create distro bundle:
 ```
 cd mongo_go_sample
+./build.sh
 zip ../gosample.zip -r *
 ```
 
